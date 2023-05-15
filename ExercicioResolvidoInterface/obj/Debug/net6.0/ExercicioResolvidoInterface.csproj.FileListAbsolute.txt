@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\bin\Debug\net6.0\ExercicioResolvidoInterface.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\bin\Debug\net6.0\ExercicioResolvidoInterface.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\bin\Debug\net6.0\ExercicioResolvidoInterface.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\bin\Debug\net6.0\ExercicioResolvidoInterface.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\bin\Debug\net6.0\ExercicioResolvidoInterface.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\refint\ExercicioResolvidoInterface.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ExercicioResolvidoInterface.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExercicioResolvidoInterface\ExercicioResolvidoInterface\obj\Debug\net6.0\ref\ExercicioResolvidoInterface.dll
